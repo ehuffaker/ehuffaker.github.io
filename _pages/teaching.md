@@ -1,21 +1,18 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
-## Publications and Working Papers
 
-Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ai23-734.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/yk56-yy47](https://doi.org/10.26300/yk56-yy47)
+From 2013 to 2018, I was a math teacher at a high school in Houston, TX. These experiences motivated me to become a researcher and continue to guide the questions I pose in my work. Now, I greatly appreciate the opportunities I have to mentor and teach students of all levels in using the tools that opened up the world of applied policy research to me.
 
-Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/aerj_2023.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029)
+## Graduate-Level Assistanships
 
-## Media Coverage and Recognition
+[Quasi-Experimental Research Designs and Analysis](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=EDUC430B) (EDUC 430B), Stanford University, Winters 2021-2023
 
-My research with Sarah Novicoff and Thomas S. Dee on a controversial reform to high school math pathways in San Francisco was covered by [Education Week](https://www.edweek.org/teaching-learning/san-francisco-insisted-on-algebra-in-9th-grade-did-it-improve-equity/2023/03), [The Economist](https://www.economist.com/united-states/2023/05/18/san-franciscos-woke-maths-experiment) and local outlets including the [The San Francisco Chronicle](https://www.sfchronicle.com/bayarea/article/sfusd-algebra-math-wars-stanford-study-17851567.php).
+This course surveys quantitative methods to make causal inferences in the absence of randomized experiment including the use of natural and quasi-experiments, instrumental variables, regression discontinuity, fixed effects estimators, and difference-in-differences. We emphasize the proper interpretation of these research designs and critical engagement with their key assumptions for applied researchers.
 
-[The New York Times](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html) featured insights from the [Stanford School Enrollment Project](https://biglocalnews.org/content/collaborations/stanford-school-enrollment-project.html) and my study of public school disenrollment during COVID-19 with Thomas S. Dee and [Big Local News](https://biglocalnews.org/) journalists Cheryl Phillips and Eric Sagrara.
+[Data Analysis for Policy and Decision Making I](https://www.tc.columbia.edu/education-policy-and-social-analysis/education-policy/courses/) (EDPA 4002), Teachers College Columbia, Fall 2018
 
-The Fordham Institute named this paper the [top education study of 2021](https://fordhaminstitute.org/national/commentary/counting-down-top-education-studies-2021), and The 74 featured it in ["16 Charts that Changed the Way We Looked at America's Schools in 2021"](https://www.the74million.org/article/16-charts-that-changed-the-way-we-looked-at-americas-schools-in-2021/). This study was also featuerd in a list of the ["top 10+ journalism collaborations of 2021"](https://medium.com/centerforcooperativemedia/here-are-the-top-10-journalism-collaborations-of-2021-210536efaaf1).
-
-I was invited, with Thomas S. Dee, to present insights from this project at the 2023 Circle Night Lecture at the Stanford University Graduate School of Education.
+This is an introductory course in quantitative research methods that focus on non-experimental designs and the analysis of large-scale longitudinal datasets, especially those related to education policy. Students become familiar with the logic of inferential statistics and the application of basic analytic techniques. No prior knowledge of statistics or quantitative methods is required.
