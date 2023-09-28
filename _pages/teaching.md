@@ -7,7 +7,7 @@ author_profile: true
 
 From 2013 to 2018, I was a math teacher at a high school in Houston, TX. These experiences motivated me to become an education researcher and continue to guide the questions I pose in my work. Now, I greatly appreciate the opportunities I have to mentor and teach students of all levels in using the tools that opened up the world of applied policy research to me.
 
-## Graduate-Level Assistanships
+## Graduate-Level Assistantships
 
 [Quasi-Experimental Research Designs and Analysis](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=EDUC430B) (EDUC 430B), Stanford University, Winters 2021-2023
 
