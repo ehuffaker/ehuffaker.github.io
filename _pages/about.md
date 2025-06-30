@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-Hello! I am an Assistant Professor fellow at the University of Florida's College of Education.
+Hello! I am an Assistant Professor at the University of Florida's College of Education.
 
 I use descriptive and causal quantitative methods to produce evidence relevant to local and national policy discussions. I frequently engage with research practice partners in schools and districts. This ensures my work responds to and informs policies that directly impact the quality and accessibility of educational programs.
 
