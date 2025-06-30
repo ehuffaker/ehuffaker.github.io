@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-Welcome! I am a research fellow at the National Student Support Accelerator at the Stanford University Graduate School of Education. 
+Welcome! I am a research fellow at the SCALE Initiative at the Stanford University Graduate School of Education. 
 
 I use descriptive and causal quantitative methods to produce evidence relevant to local and national policy discussions. I frequently engage with research practice partners in schools and districts. This ensures my work responds to and informs policies that directly impact the quality and accessibility of educational programs.
 
