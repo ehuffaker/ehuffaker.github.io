@@ -6,17 +6,27 @@ author_profile: true
 ---
 ## Publications and Working Papers
 
-Cohodes, S. R., Ho. H., Huffaker, E., & Robles, S. C. (2024) [Residential vs. online? Experimental evidence on diversifying the STEM pipeline](/files/aeapandp_2024.pdf). _AEA Papers and Proceedings, 114_, 507-11. [https://doi.org/10.1257/pandp.20241016](https://doi.org/10.1257/pandp.20241016)
+Dee, T. S., & Huffaker, E. (2026). Accelerating opportunity: Evidence from the Algebra I Initiative. _American Educational Research Journal_. [https://doi.org/10.3102/00028312251408539](https://doi.org/10.3102/00028312251408539)
 
-Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ai23-734.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/yk56-yy47](https://doi.org/10.26300/yk56-yy47)
+Huffaker, E., Novicoff, S., & Dee, T. S. (2025). Ahead of the game? Course-taking patterns under a math pathways reform. _Educational Researcher_. [https://doi.org/10.3102/0013189X241309642](https://doi.org/10.3102/0013189X241309642)
 
-Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/aerj_2023.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029)
+Huffaker, E. (2025). Evidence-based practices for Algebra I access, placement, and success. _EdResearch for Action_.
+
+Huffaker, E., Lee, M., Zhou, H., Robinson, C., & Loeb, S. Beyond the one-teacher model: Experimental evidence on using embedded paraprofessionals as personalized instructors. (EdWorkingPaper: 25-1326). Annenberg Institute at Brown University. [https://doi.org/10.26300/pzy2-wr51](https://doi.org/10.26300/pzy2-wr51)
+
+Huffaker, E., Robinson, C., Bardelli, E., White, S., & Loeb, S. When interventions don't move the needle: Insights from null results in education research. (EdWorkingPaper: 25-1259). Annenberg Institute at Brown University. [https://doi.org/10.26300/58dd-6d02](https://doi.org/10.26300/58dd-6d02)
+
+Wentworth, L., Arce-Trigatti, P., Borko, H., Carlson, C., Dee, T., Dye, V., Firestone, A., Ganschow, J., Gerstein, A., Huffaker, E., Mercado-Garcia, D., Mafi, G., Novicoff, S., Owen, L., Rice, J., Sewell, J., & Wright, K. A research-practice-policy systematic review method involving networked partnerships: The example of secondary mathematics course sequences.
+
+Cohodes, S. R., Ho, H., Huffaker, E., & Robles, S. C. (2024). [Residential vs. online? Experimental evidence on diversifying the STEM pipeline](/files/aeapandp_2024.pdf). _AEA Papers and Proceedings, 114_, 507-11. [https://doi.org/10.1257/pandp.20241016](https://doi.org/10.1257/pandp.20241016)
+
+Dee, T. S., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/aerj_2023.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029)
 
 ## Media Coverage and Recognition
 
 November 2025 - I was interviewed by [Education Week](https://www.edweek.org/teaching-learning/high-achieving-black-and-latino-students-are-often-shut-out-of-algebra-1/2025/11) about research on access to Algebra I for high-achieving students of color, and separately about [challenges in scaling tutoring programs](https://www.edweek.org/leadership/why-hasnt-tutoring-been-more-effective/2025/11). [The 74](https://www.the74million.org/article/lessons-from-a-failed-texas-tutoring-program/) also featured my comments on lessons from a Texas tutoring program.
 
-September 2025 - [Education Week](https://www.edweek.org/policy-politics/math-and-career-education-are-now-top-grant-priorities-for-ed-dept/2025/09) cited my work in coverage of math and career education becoming top grant priorities for the U.S. Department of Education.
+September 2025 - I commented in [Education Week](https://www.edweek.org/policy-politics/math-and-career-education-are-now-top-grant-priorities-for-ed-dept/2025/09) on math and career education becoming top grant priorities for the U.S. Department of Education.
 
 July 2025 - [Education Week](https://www.edweek.org/teaching-learning/can-one-change-in-middle-school-get-more-students-to-take-algebra-1-early/2025/07) covered research on middle school course-taking policies and early Algebra I enrollment.
 
