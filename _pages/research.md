@@ -8,15 +8,13 @@ author_profile: true
 
 Dee, T. S., & Huffaker, E. (2026). Accelerating opportunity: Evidence from the Algebra I Initiative. _American Educational Research Journal_. [https://doi.org/10.3102/00028312251408539](https://doi.org/10.3102/00028312251408539)
 
+Huffaker, E., Lee, M., Zhou, H., Robinson, C., & Loeb, S. (2025). Beyond the one-teacher model: Experimental evidence on using embedded paraprofessionals as personalized instructors. (EdWorkingPaper: 25-1326). Annenberg Institute at Brown University. [https://doi.org/10.26300/pzy2-wr51](https://doi.org/10.26300/pzy2-wr51)
+
+Huffaker, E., Robinson, C., Bardelli, E., White, S., & Loeb, S. (2025). When interventions don't move the needle: Insights from null results in education research. (EdWorkingPaper: 25-1259). Annenberg Institute at Brown University. [https://doi.org/10.26300/58dd-6d02](https://doi.org/10.26300/58dd-6d02)
+
 Huffaker, E., Novicoff, S., & Dee, T. S. (2025). Ahead of the game? Course-taking patterns under a math pathways reform. _Educational Researcher_. [https://doi.org/10.3102/0013189X241309642](https://doi.org/10.3102/0013189X241309642)
 
-Huffaker, E. (2025). Evidence-based practices for Algebra I access, placement, and success. _EdResearch for Action_.
-
-Huffaker, E., Lee, M., Zhou, H., Robinson, C., & Loeb, S. Beyond the one-teacher model: Experimental evidence on using embedded paraprofessionals as personalized instructors. (EdWorkingPaper: 25-1326). Annenberg Institute at Brown University. [https://doi.org/10.26300/pzy2-wr51](https://doi.org/10.26300/pzy2-wr51)
-
-Huffaker, E., Robinson, C., Bardelli, E., White, S., & Loeb, S. When interventions don't move the needle: Insights from null results in education research. (EdWorkingPaper: 25-1259). Annenberg Institute at Brown University. [https://doi.org/10.26300/58dd-6d02](https://doi.org/10.26300/58dd-6d02)
-
-Wentworth, L., Arce-Trigatti, P., Borko, H., Carlson, C., Dee, T., Dye, V., Firestone, A., Ganschow, J., Gerstein, A., Huffaker, E., Mercado-Garcia, D., Mafi, G., Novicoff, S., Owen, L., Rice, J., Sewell, J., & Wright, K. A research-practice-policy systematic review method involving networked partnerships: The example of secondary mathematics course sequences.
+Huffaker, E. (2025). [Evidence-based practices for Algebra I access, placement, and success.](https://edresearchforaction.org/research-briefs/evidence-based-practices-for-algebra-1-access-placement-and-success/) _EdResearch for Action_.
 
 Cohodes, S. R., Ho, H., Huffaker, E., & Robles, S. C. (2024). [Residential vs. online? Experimental evidence on diversifying the STEM pipeline](/files/aeapandp_2024.pdf). _AEA Papers and Proceedings, 114_, 507-11. [https://doi.org/10.1257/pandp.20241016](https://doi.org/10.1257/pandp.20241016)
 
