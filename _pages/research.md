@@ -30,7 +30,7 @@ Huffaker, E. (2025). [Evidence-based practices for Algebra I access, placement, 
 
 May 2026 - [EdSource](https://edsource.org/2026/california-needs-to-double-down-on-attention-to-math-researchers-say/758003) covered the Getting Down to Facts math brief and quoted me on persistent gaps in early-grades math achievement and drivers of decline in advanced math course-taking among California students.
 
-April 2026 - [Education Week](https://www.edweek.org/teaching-learning/a-new-approach-to-algebra-in-8th-grade-seems-to-produce-big-benefits/2026/04) covered new findings on the benefits of a double-dose approach to 8th-grade algebra in San Francisco.
+April 2026 - [Education Week](https://www.edweek.org/teaching-learning/a-new-approach-to-algebra-in-8th-grade-seems-to-produce-big-benefits/2026/04) also covered new findings on the benefits of a double-dose approach to 8th-grade algebra in San Francisco.
 
 March 2026 - My research on algebra course-taking in San Francisco was covered by [The New York Times](https://www.nytimes.com/2026/03/24/us/san-francisco-public-schools-algebra.html), [The 74](https://www.the74million.org/article/san-francisco-brings-back-8th-grade-algebra-to-broader-student-group/), the [San Francisco Chronicle](https://www.sfchronicle.com/sfusd/article/algebra-return-sf-middle-schools-21939517.php), the [SF Standard](https://sfstandard.com/2026/03/22/algebra-sfusd-how-does-it-work/), and [The Frisc](https://thefrisc.com/sfusd-has-an-8th-grade-algebra-solution-but-itll-test-yet-another-option/).
 
