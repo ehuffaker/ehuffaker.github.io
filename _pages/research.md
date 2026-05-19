@@ -14,13 +14,25 @@ Huffaker, E., Robinson, C., Bardelli, E., White, S., & Loeb, S. (2025). When int
 
 Huffaker, E., Novicoff, S., & Dee, T. S. (2025). Ahead of the game? Course-taking patterns under a math pathways reform. _Educational Researcher_. [https://doi.org/10.3102/0013189X241309642](https://doi.org/10.3102/0013189X241309642)
 
-Huffaker, E. (2025). [Evidence-based practices for Algebra I access, placement, and success.](https://edresearchforaction.org/research-briefs/evidence-based-practices-for-algebra-1-access-placement-and-success/) _EdResearch for Action_.
-
 Cohodes, S. R., Ho, H., Huffaker, E., & Robles, S. C. (2024). [Residential vs. online? Experimental evidence on diversifying the STEM pipeline](/files/aeapandp_2024.pdf). _AEA Papers and Proceedings, 114_, 507-11. [https://doi.org/10.1257/pandp.20241016](https://doi.org/10.1257/pandp.20241016)
 
 Dee, T. S., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/aerj_2023.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029)
 
+## Research & Policy Reports
+
+Smith, T. M., Huffaker, E., et al. (2026). [Mathematics in California: Gaps, capacity, and implementation.](https://gettingdowntofacts.com/research-briefs/mathematics-california-gaps-capacity-and-implementation) _Getting Down to Facts III_. Stanford SCALE.
+
+Huffaker, E. (2026). [Adoption windows and reform: California's math pathways in the post-Common Core era.](https://gettingdowntofacts.com/reports/adoption-windows-and-reform-californias-math-pathways-post-common-core-era) _Getting Down to Facts III_. Stanford SCALE.
+
+Huffaker, E. (2025). [Evidence-based practices for Algebra I access, placement, and success.](https://edresearchforaction.org/research-briefs/evidence-based-practices-for-algebra-1-access-placement-and-success/) _EdResearch for Action_.
+
 ## Media Coverage and Recognition
+
+May 2026 - [EdSource](https://edsource.org/2026/california-needs-to-double-down-on-attention-to-math-researchers-say/758003) covered the Getting Down to Facts math brief and quoted me on persistent gaps in early-grades math achievement.
+
+April 2026 - [Education Week](https://www.edweek.org/teaching-learning/a-new-approach-to-algebra-in-8th-grade-seems-to-produce-big-benefits/2026/04) covered new findings on the benefits of a dual-enrollment approach to 8th-grade algebra in San Francisco.
+
+March 2026 - My research on algebra course-taking in San Francisco was covered by [The New York Times](https://www.nytimes.com/2026/03/24/us/san-francisco-public-schools-algebra.html), [The 74](https://www.the74million.org/article/san-francisco-brings-back-8th-grade-algebra-to-broader-student-group/), the [San Francisco Chronicle](https://www.sfchronicle.com/sfusd/article/algebra-return-sf-middle-schools-21939517.php), the [SF Standard](https://sfstandard.com/2026/03/22/algebra-sfusd-how-does-it-work/), and [The Frisc](https://thefrisc.com/sfusd-has-an-8th-grade-algebra-solution-but-itll-test-yet-another-option/).
 
 November 2025 - I was interviewed by [Education Week](https://www.edweek.org/teaching-learning/high-achieving-black-and-latino-students-are-often-shut-out-of-algebra-1/2025/11) about research on access to Algebra I for high-achieving students of color, and separately about [challenges in scaling tutoring programs](https://www.edweek.org/leadership/why-hasnt-tutoring-been-more-effective/2025/11). [The 74](https://www.the74million.org/article/lessons-from-a-failed-texas-tutoring-program/) also featured my comments on lessons from a Texas tutoring program.
 
