@@ -28,6 +28,10 @@ Huffaker, E. (2025). [Evidence-based practices for Algebra I access, placement, 
 
 ## Media Coverage and Recognition
 
+August 2026 - [EdSource](https://edsource.org/2026/lawmakers-pass-mandate-to-help-californias-youngest-students-catch-up-in-math/764713) quoted me on California's universal K-2 math screener bill (SB 1067), on the value of identifying students early for supports like high-impact tutoring, but also on how the bill stops short of providing the supports and prescriptions of Alabama's numeracy law.
+
+June 2026 - [The Hechinger Report](https://hechingerreport.org/blending-algebra-and-geometry-an-approach-to-high-school-math-slowly-gains-favor/) interviewed me for a feature on integrated math, the approach that blends algebra and geometry rather than teaching them as separate courses.
+
 May 2026 - [EdSource](https://edsource.org/2026/california-needs-to-double-down-on-attention-to-math-researchers-say/758003) covered the Getting Down to Facts math brief and quoted me on persistent gaps in early-grades math achievement and drivers of decline in advanced math course-taking among California students.
 
 April 2026 - [Education Week](https://www.edweek.org/teaching-learning/a-new-approach-to-algebra-in-8th-grade-seems-to-produce-big-benefits/2026/04) also covered new findings on the benefits of a double-dose approach to 8th-grade algebra in San Francisco.
