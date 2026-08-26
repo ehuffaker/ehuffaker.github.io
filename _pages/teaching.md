@@ -12,3 +12,5 @@ From 2013 to 2018, I was a math teacher at a high school in Houston, TX. These e
 **Quantitative Inquiry in Education Policy**, Fall 2025
 
 **Quantitative Methods in Educational Administration**, Spring & Summer 2026
+
+**Applied Education Policy Research**, Fall 2026
