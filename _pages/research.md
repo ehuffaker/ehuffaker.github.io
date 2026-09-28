@@ -6,9 +6,9 @@ author_profile: true
 ---
 ## Publications and Working Papers
 
-Dee, T. S., & Huffaker, E. (2026). Accelerating opportunity: Evidence from the Algebra I Initiative. _American Educational Research Journal_. [https://doi.org/10.3102/00028312251408539](https://doi.org/10.3102/00028312251408539)
-
 Huffaker, E., Robinson, C., Bardelli, E., White, S., & Loeb, S. (forthcoming). When interventions don't move the needle: Insights from null results in education research. _American Educational Research Journal_. (EdWorkingPaper: 25-1295). [https://doi.org/10.26300/58dd-6d02](https://doi.org/10.26300/58dd-6d02)
+
+Dee, T. S., & Huffaker, E. (2026). Accelerating opportunity: Evidence from the Algebra I Initiative. _American Educational Research Journal_. [https://doi.org/10.3102/00028312251408539](https://doi.org/10.3102/00028312251408539)
 
 Huffaker, E., Levin Markel, B., Robinson, C. D., & Loeb, S. (2026). Tutor traits and student achievement: Evidence from a randomized experiment. (EdWorkingPaper: 26-1595). Annenberg Institute at Brown University. [https://doi.org/10.26300/jgzm-qp55](https://doi.org/10.26300/jgzm-qp55)
 
@@ -22,7 +22,7 @@ Dee, T. S., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed prefe
 
 ## Research & Policy Reports
 
-Smith, T. M., Huffaker, E., et al. (2026). [Mathematics in California: Gaps, capacity, and implementation.](https://gettingdowntofacts.com/research-briefs/mathematics-california-gaps-capacity-and-implementation) _Getting Down to Facts III_. Stanford SCALE.
+Huffaker, E., et al. (2026). [Mathematics in California: Gaps, capacity, and implementation.](https://gettingdowntofacts.com/research-briefs/mathematics-california-gaps-capacity-and-implementation) _Getting Down to Facts III_. Stanford SCALE.
 
 Huffaker, E. (2026). [Adoption windows and reform: California's math pathways in the post-Common Core era.](https://gettingdowntofacts.com/reports/adoption-windows-and-reform-californias-math-pathways-post-common-core-era) _Getting Down to Facts III_. Stanford SCALE.
 
