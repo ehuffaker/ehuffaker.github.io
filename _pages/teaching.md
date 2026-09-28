@@ -9,8 +9,11 @@ From 2013 to 2018, I was a math teacher at a high school in Houston, TX. These e
 
 ## University of Florida
 
-**Quantitative Inquiry in Education Policy**, Fall 2025
+**Quantitative Inquiry in Education Policy**, Fall 2025  
+In-person Ph.D. course in descriptive quantitative methods for education policy, from statistical inference through multiple and multilevel regression, with hands-on Stata labs using U.S. and Florida Department of Education data and close reading of published policy research.
 
-**Quantitative Methods in Educational Administration**, Spring & Summer 2026
+**Quantitative Methods in Educational Administration**, Spring & Summer 2026  
+Online Ed.D. course introducing quantitative inquiry for school and district leaders: summarizing and visualizing education data, statistical inference, and regression, building toward a capstone analysis tied to students' dissertation work or problems of practice.
 
-**Applied Education Policy Research**, Fall 2026
+**Applied Education Policy Research**, Fall 2026  
+Online doctoral course on critically interpreting and synthesizing quantitative education policy research, with an introduction to research design and the logic of causal inference.
