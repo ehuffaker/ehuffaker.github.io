@@ -8,9 +8,11 @@ author_profile: true
 
 Dee, T. S., & Huffaker, E. (2026). Accelerating opportunity: Evidence from the Algebra I Initiative. _American Educational Research Journal_. [https://doi.org/10.3102/00028312251408539](https://doi.org/10.3102/00028312251408539)
 
-Huffaker, E., Lee, M., Zhou, H., Robinson, C., & Loeb, S. (2025). Beyond the one-teacher model: Experimental evidence on using embedded paraprofessionals as personalized instructors. (EdWorkingPaper: 25-1326). Annenberg Institute at Brown University. [https://doi.org/10.26300/pzy2-wr51](https://doi.org/10.26300/pzy2-wr51)
+Huffaker, E., Robinson, C., Bardelli, E., White, S., & Loeb, S. (forthcoming). When interventions don't move the needle: Insights from null results in education research. _American Educational Research Journal_. (EdWorkingPaper: 25-1295). [https://doi.org/10.26300/58dd-6d02](https://doi.org/10.26300/58dd-6d02)
 
-Huffaker, E., Robinson, C., Bardelli, E., White, S., & Loeb, S. (2025). When interventions don't move the needle: Insights from null results in education research. (EdWorkingPaper: 25-1259). Annenberg Institute at Brown University. [https://doi.org/10.26300/58dd-6d02](https://doi.org/10.26300/58dd-6d02)
+Huffaker, E., Levin Markel, B., Robinson, C. D., & Loeb, S. (2026). Tutor traits and student achievement: Evidence from a randomized experiment. (EdWorkingPaper: 26-1595). Annenberg Institute at Brown University. [https://doi.org/10.26300/jgzm-qp55](https://doi.org/10.26300/jgzm-qp55)
+
+Huffaker, E., Lee, M., Zhou, H., Robinson, C., & Loeb, S. (2025). Beyond the one-teacher model: Experimental evidence on using embedded paraprofessionals as personalized instructors. (EdWorkingPaper: 25-1326). Annenberg Institute at Brown University. [https://doi.org/10.26300/pzy2-wr51](https://doi.org/10.26300/pzy2-wr51)
 
 Huffaker, E., Novicoff, S., & Dee, T. S. (2025). Ahead of the game? Course-taking patterns under a math pathways reform. _Educational Researcher_. [https://doi.org/10.3102/0013189X241309642](https://doi.org/10.3102/0013189X241309642)
 
